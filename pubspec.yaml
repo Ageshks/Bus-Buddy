@@ -1,0 +1,32 @@
+name: busbuddy
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2  # or the appropriate version that works with your project
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.11.0
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icon.png"
+
+
+flutter:
+  uses-material-design: true
+
+  # Add your assets here
+  assets:
+    - assets/logo.png
