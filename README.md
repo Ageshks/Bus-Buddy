@@ -21,3 +21,4 @@ this is the project that users can book the bus tickets
 there is a logo setted init and 
 - login page
 - signup page
+- still working on the bot version also and its also under development
