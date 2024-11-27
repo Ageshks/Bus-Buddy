@@ -18,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 this is the project that users can book the bus tickets 
+there is a logo setted init and 
+- login page
+- signup page
